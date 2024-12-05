@@ -1,5 +1,6 @@
 if status is-interactive
     # Commands to run in interactive sessions can go here
     fish_vi_key_bindings
-    fish_greeting
+    function fish_greeting
+    end
 end
