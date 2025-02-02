@@ -3,4 +3,5 @@ if status is-interactive
     fish_vi_key_bindings
     function fish_greeting
     end
+    zoxide init fish | source
 end
